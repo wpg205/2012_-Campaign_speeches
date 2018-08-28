@@ -1,5 +1,5 @@
 # obama2012_speeches
-Obama's 2012 Campaign and Fundraiser Speeches digitized
+Obama's 2012 Campaign and Fundraiser Speeches digitized.
 This data was collected from http://www.presidency.ucsb.edu (Online by Gerhard Peters and John T. Woolley, The American Presidency Project. http://www.presidency.ucsb.edu/ws/?pid=102634.)
 The data is organized as follow:
 1. Whether the event was a Campaign Rally or Fundraiser
