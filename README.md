@@ -9,4 +9,4 @@ The data is organized as follow:
 5. notes: e.g., if this was the second, third or fourth event at that location in that day. Or if there was a 'q and a' session at that event.
 6. speech: Text of the speech given that that event. 
 
-If you have any questions or require any additional information please let me know. Also feedback on any typos, mistakes or other errors will be greatly appreciated.  
+If you have any questions or require any additional information please let me know. Also, feedback on any typos, mistakes or other errors will be greatly appreciated.  
